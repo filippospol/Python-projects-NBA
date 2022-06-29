@@ -44,6 +44,8 @@ while condition:
     statements
 ```
 
+- When using **nested loops**, be very careful not to use the same variable in all loops (variable shadowing) !
+
 ### List comprehensions
 
 - Generate a new list from an existing list:  
